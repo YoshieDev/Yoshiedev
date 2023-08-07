@@ -1,6 +1,11 @@
 # 🗯 About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E41E78&width=435&lines=Hello%2C+I'm+Yoshiedev+Welcome%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=E41E78&width=435&lines=Hello%2C+I'm+Yoshiedev+Welcome%F0%9F%91%8B%F0%9F%8F%BB)]
+
+
+
 
 
 Welcome to my GitHub profile! My name is Yoshie and I am a tech enthusiast with a passion for coding and software development. Here you will find a variety of projects and code snippets that showcase my skills and interests.
