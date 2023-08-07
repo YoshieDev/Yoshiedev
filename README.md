@@ -2,7 +2,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E41E78&width=435&lines=Hello%2C+I'm+Yoshiedev+Welcome%F0%9F%91%8B%F0%9F%8F%BB)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=E41E78&center=true&width=435&lines=Hello%2C+I'm+Yoshiedev;QA+Tester+Manager;Developer+Software)](https://git.io/typing-svg)
 
 
 
