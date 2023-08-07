@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=E41E78&center=true&width=435&lines=Hello%2C+I'm+Yoshiedev;QA+Tester+Manager;Developer+Software)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="65"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=E41E78&center=true&width=435&lines=Hello%2C+I'm+Yoshiedev;QA+Tester+Manager;Developer+Software)](https://git.io/typing-svg)
 
 
 
