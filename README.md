@@ -1,6 +1,9 @@
-# 💫 About Me:
-Hello everyone, welcome to my GitHub profile! My name is Yoshie and I am a tech enthusiast with a passion for coding and software development. Here you will find a variety of projects and code snippets that showcase my skills and interests.
+# 🗯 About Me:
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E41E78&width=435&lines=Hello%2C+I'm+Yoshiedev+Welcome%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+
+
+Welcome to my GitHub profile! My name is Yoshie and I am a tech enthusiast with a passion for coding and software development. Here you will find a variety of projects and code snippets that showcase my skills and interests.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Yoshiedev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yoshiedev) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Yoshiedev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Yoshiedev) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Yoshiedev) 
